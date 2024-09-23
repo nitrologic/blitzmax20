@@ -1,0 +1,16 @@
+https://github.com/nitrologic/blitzmax20
+
+According to wikipedia
+
+The first BlitzMax compiler was released in December 2004 for Mac OS X
+
+The editor was a native Cocoa application.
+
+Mark had emailed Steve Jobs at Apple dot com and his PA had arranged delivery of a bright orange PowerPC iMac early that year.
+
+By the time Mark and Simon at Blitz Research released Windows Linux support in May 2005 the editor was a MaxGUI named MaxIDE.
+
+In 2006 GridWars was coded in BlitzMax by Mark Incitti
+
+https://worldofstuart.excellentcontent.com/grid/wars.htm
+
